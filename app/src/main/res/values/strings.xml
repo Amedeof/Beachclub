@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Beach club</string>
+    //company address
+    <string name="company_address">Ko Phi Phi, Phi Phi Islands, Thailand</string>
+    //business description
+    <string name="business_description">One of the best beach clubs in Thailand.</string>
+    //opening hours
+    <string name="opening_hours">Mo-Su  11:00am - 10:00pm</string>
+    //website
+    <string name="website">www.thisisafictionalbusinss.com</string>
+    //phone number
+    <string name="phone_number">+66 987654321</string>
+</resources>
